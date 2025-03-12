@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      
+      <main>안녕히가세요</main>
     </>
   )
 }
